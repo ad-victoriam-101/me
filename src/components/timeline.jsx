@@ -21,8 +21,20 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Fullstack Development <span>2018-present</span></h2>
+                        <p>I attended a Fullstack Development boot camp though UC Berkeley which gave me a solid grasp on many of the programs used in web developement. While the course was Fullstack I enjoyed the React and Backend portions of the class the most.</p>
+                        <p></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Custom PCs and Servers <span>2014-present</span></h2>
+                        <p>I have spent a while building custom computers for people, either personal watercooled gaming rigs or decked out Miners and almost everything inbetween. During this time I spent a long time in Linux and even built a few systems off Arch</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +44,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Undergraduation at RPI<span> 2011-2014</span></h2>
+                        <p>I attended Rensslear Polytechnical Institute for three years with a focus in Mechanical Engineering with a math minor. Due to family and personal reasons I had to leave my junior year. </p>
+                        <p>From the school I learned a great deal though and my persuit of knowledge wasn't hindered.</p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +57,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
