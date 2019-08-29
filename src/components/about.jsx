@@ -11,10 +11,13 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>Mechanical engineering student turned developer.</p>
+                    <p>I have spent a while learning to do Softwear Enginerring and Data Analasys through mostly self tought processes and Coursera.
+                        spending alot of my time also buliding custom PC rigs and storage servers. In 2018 I took a Fullstack developer boot camp and decided that I wanted to continue my learning process with that career. 
+                    </p>
+                    <p>I also enjoy photography and some videography.</p>
                     </div>
                 </div>
                 </div>
@@ -38,7 +41,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites andextentions using JavaScript,React,Flask,HTML,CSS</p>
+                    <p>and a few projects build in React Native and Django.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +53,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>I have good grasp over fundamental concepts of DSA</p>
+                    <p>Through many online courses, practical application and projects</p>
+                    <p>From my time in undergrad I also have experience with Matlab and Octave.</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +66,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I am pursuing my interest with DevOps though online courses.</p>
+                    <p>and practical applications in server creation and maintenance</p>
                 </div>
                 </div>
             </div>

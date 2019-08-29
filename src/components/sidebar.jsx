@@ -9,8 +9,8 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Dhruv Barochiya</a></h1>
-              <span className="email"><i className="icon-mail"></i> Dhruv.barochiya34788@gmail.com</span>
+              <h1 id="colorlib-logo"><a href="index.html">Brogan Stich</a></h1>
+              <span className="email"><i className="icon-mail"></i> broganstich@gmail.com </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -25,13 +25,11 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/dhruv.barochia" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
-              </ul>
+                  <li><a href="https://www.facebook.com/brogan.stich" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                  <li><a href="https://www.instagram.com/prisma_forest/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                  <li><a href="https://www.linkedin.com/in/brogan-stich/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                  <li><a href="https://github.com/ad-victoriam-101" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                  <li><a href="https://photos.app.goo.gl/MC9dHevyf9VT8rVXA" target="_blank" rel="noopener noreferrer"><i className="icon-camera"></i></a></li></ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
@@ -39,7 +37,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
               <p><small>
-                Something coming soon !!
+                More Coming Soon!
               </small></p>
             </div>
           </aside>
